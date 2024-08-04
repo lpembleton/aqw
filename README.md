@@ -2,7 +2,7 @@
 Encourage engagement and questions of all levels in your projects.
 
 ## Purpose
-The goal of this project is to establish a set of unique, recognizable icons/badges that you can add to your project pages/readmes. These badges signal to users that you welcome questions and engagement, regardless of their experience level.
+The goal of this project is to establish a set of unique, recognisable icons/badges that you can add to your project pages/readmes. These badges signal to users that you welcome questions and engagement, regardless of their experience level.
 
 While having a public GitHub repository generally implies openness to community engagement, many users may hesitate to ask questions out of an unfounded fear that their questions might be perceived as "stupid". We believe that no question is a stupid question.
 
@@ -15,13 +15,13 @@ To differentiate these badges from the commonly used hexagon stickers in other p
 
 ### Badge Designs
 
-**Design 1:**
+**Design 1:**  
 <img src="badges/aqw_round_door.png" height="100"/>
 
-**Design 2:**
+**Design 2:**  
 <img src="badges/aqw_shield_convo.png" height="100"/>
 
-**Design 3:**
+**Design 3:**  
 <img src="badges/aqw_shield_qa.png" height="100"/>
 
 ## To-Do
